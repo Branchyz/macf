@@ -23,7 +23,7 @@ The tool performs the following steps:
    ```
 3. (Optional) Add the binary to your PATH:
 
-    To make the mac-ip-resolver command accessible from any directory, move it to a directory that is in your system's PATH, or add the current directory to your PATH. For example:
+    To make the macf command accessible from any directory, move it to a directory that is in your system's PATH, or add the current directory to your PATH. For example:
    
    ```bash
    set PATH=%PATH%;C:\path\to\your\bin
